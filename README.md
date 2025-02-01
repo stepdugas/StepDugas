@@ -32,8 +32,8 @@ I'm Stephanie Dugas, a software developer passionate about problem-solving and b
 
 ---
 ## 💻 Thanks for stopping by!
-### ✨ Let's Connect! 🚀
+### ✨ Let's Connect! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-dugas/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stepdugas)
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100%" />
