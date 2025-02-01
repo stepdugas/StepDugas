@@ -12,7 +12,6 @@ I'm Stephanie Dugas, a software developer passionate about problem-solving and b
 🎮 Outside of Coding: You’ll find me hiking, working out, playing video games, and experimenting with 3D printing!
 😄 Pronouns: She/Her
 
-
 ## 🛠️ Tech Stack & Tools  
 
 ### 🚀 Languages & Frameworks  
