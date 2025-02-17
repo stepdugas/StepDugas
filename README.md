@@ -7,7 +7,7 @@ I'm Stephanie Dugas, a software developer passionate about problem-solving and b
 
 ## 🌐 My Portfolio
 Check out my portfolio to see my latest projects!  
-🔗 [My Developer Portfolio](https://stepdugas.github.io/stephanie-portfolio/)
+🔗 [My Developer Portfolio](https://stepdugas.github.io/Stephanie-portfolio/)
 
 
 ## 🛠️ Tech Stack & Tools  
