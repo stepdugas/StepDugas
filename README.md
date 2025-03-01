@@ -3,7 +3,7 @@ Hi there! 👋 Welcome to my GitHub!
 
 Software Developer | Java | Full-Stack Enthusiast
 
-I'm Stephanie Dugas, a software developer passionate about problem-solving and building useful applications. I’m currently completing an intensive full-stack coding bootcamp at Tech Elevator, where I’m honing my skills in Java, Spring Boot, SQL, Vue.js, and more.
+I'm Stephanie Dugas, a software developer passionate about problem-solving and building useful applications. I recently completed an intensive full-stack coding bootcamp at Tech Elevator, where I’m honing my skills in Java, Spring Boot, SQL, Vue.js, and more.
 
 
 ## 🌐 My Portfolio
