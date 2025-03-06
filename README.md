@@ -1,15 +1,24 @@
-
 Hi there! 👋 Welcome to my GitHub!
 
-Software Developer | Java | Full-Stack Enthusiast
+# Stephanie Dugas  
+**Software Developer**  
 
 I'm Stephanie Dugas, a software developer passionate about problem-solving and building useful applications. I recently completed an intensive full-stack coding bootcamp at Tech Elevator, where I developed my skills in Java, Spring Boot, SQL, Vue.js, and more.
 
+---
 
-## 🌐 My Portfolio
+## 🌐 My Portfolio  
 Check out my portfolio to see my latest projects!  
 🔗 [My Developer Portfolio](https://stepdugas.github.io/Stephanie-portfolio/)
 
+---
+
+## 🎬 A Sneak Peek into My Work  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300">
+</p>
+
+---
 
 ## 🛠️ Tech Stack & Tools  
 
@@ -30,7 +39,29 @@ Check out my portfolio to see my latest projects!
 ![Agile](https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white)
 
 ---
-## 💻 Thanks for stopping by!
-### ✨ Let's Connect! 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-dugas/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stepdugas)
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stepdugas&show_icons=true&theme=tokyonight" alt="Stephanie's GitHub Stats">
+</p>
+
+---
+
+## 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stepdugas&theme=tokyonight" alt="GitHub Streak">
+</p>
+
+---
+
+## 📌 Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepdugas&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
+
+---
+
+## 💻 Thanks for stopping by!  
+### ✨ Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-dugas/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stepdugas)  
