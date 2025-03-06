@@ -13,13 +13,6 @@ Check out my portfolio to see my latest projects!
 
 ---
 
-## 🎬 A Sneak Peek into My Work  
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300">
-</p>
-
----
-
 ## 🛠️ Tech Stack & Tools  
 
 ### 🚀 Languages & Frameworks  
@@ -37,20 +30,6 @@ Check out my portfolio to see my latest projects!
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white)
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stepdugas&show_icons=true&theme=tokyonight" alt="Stephanie's GitHub Stats">
-</p>
-
----
-
-## 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stepdugas&theme=tokyonight" alt="GitHub Streak">
-</p>
 
 ---
 
