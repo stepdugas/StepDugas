@@ -31,6 +31,13 @@ Check out my portfolio to see my latest projects!
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white)
 
+--- 
+
+## 💻 Thanks for stopping by!
+### ✨ Let's Connect! 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-dugas/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stepdugas)
+
 ---
 
 ## 📌 Top Languages  
@@ -38,16 +45,4 @@ Check out my portfolio to see my latest projects!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepdugas&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
---- 
 
-## 💻 Thanks for stopping by!  
-### ✨ Let's Connect!  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/stephanie-dugas/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/stepdugas" target="_blank" style="display: inline-block; margin-left: 10px;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
