@@ -5,6 +5,8 @@ Hi there! 👋 Welcome to my GitHub!
 
 I'm Stephanie Dugas, a software developer passionate about problem-solving and building useful applications. I recently completed an intensive full-stack coding bootcamp at Tech Elevator, where I developed my skills in Java, Spring Boot, SQL, Vue.js, and more.
 
+⚛️ React-ing soon! Leveling up my front-end skills with a React bootcamp next week.
+
 ---
 
 ## 🌐 My Portfolio  
