@@ -12,7 +12,7 @@ Since then, I’ve expanded into mobile development using Swift and SwiftUI — 
 ## 📱 Published App  
 **📚 Stacked Flashcards**  
 A sleek and customizable flashcard app designed to help students study smarter.  
-🔗 [Download on the App Store](https://apps.apple.com/app/id6477020247)  
+🔗 [Download on the App Store](https://apps.apple.com/us/app/stacked-flashcards/id6744585549)  
 🌐 [Landing Page](https://stackedflashcards.com)
 
 ---
