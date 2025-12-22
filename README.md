@@ -1,11 +1,11 @@
 Hi there! 👋 Welcome to my GitHub!
 
 # Stephanie Dugas  
-**Software Developer & iOS App Creator**  
+**Associate Software Engineer & iOS Developer**
 
-I'm Stephanie Dugas, a software developer passionate about solving real-world problems and building impactful applications. In February 2025, I completed an intensive full-stack coding bootcamp at Tech Elevator, where I built a strong foundation in Java, Spring Boot, SQL, Vue.js, and more.
+I'm Stephanie Dugas, an associate software engineer with a background in full-stack and mobile development. In February 2025, I completed an intensive full-stack coding bootcamp at Tech Elevator, where I built a strong foundation in Java, Spring Boot, SQL, Vue.js, and modern software development practices.
 
-Since then, I’ve expanded into mobile development using Swift and SwiftUI — and published my first iOS app, **[Stacked Flashcards](https://apps.apple.com/us/app/stacked-flashcards/id6744585549)**, now live on the App Store.
+I currently work as an **Associate Software Engineer (IT Apprentice) at Erie Insurance**, where I contribute to production software in a collaborative Agile environment, gaining hands-on experience with enterprise systems & code reviews. Alongside my work experience, I continue to build and maintain personal projects, including native iOS applications using Swift and SwiftUI.
 
 ---
 
